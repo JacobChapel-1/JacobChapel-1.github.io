@@ -1,0 +1,56 @@
+﻿
+h1  {color: black; 
+    font-family: sans-serif; 
+    font-size: 2rem;
+    border-left: 5px solid tomato;
+    margin-right: 30px; 
+    padding-top: 20px;
+    background-color: tomato
+}
+
+h2  {color: black; 
+    font-family: Arial; 
+    font-size: 1.5rem; 
+    float: left;}
+
+p {font-size: 1rem;
+}
+
+.paragraph-border { 
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+
+.image-container {
+ display: inline-block;
+ border: 5px solid black;
+ float: right;
+}
+
+.image-container img {
+max-width: 100%;
+height: auto;
+display:block;
+width: 1000px;
+height: 900px;
+position: relative;
+
+}
+
+.meandgf {
+ display: inline-block;
+ border: 5px solid black;
+}
+
+.meandgf img {
+max-width: 100%;
+height: auto;
+display:block;
+width: 400px; 
+height 50px;
+}
+
+li {padding-top: 90px;
+    padding-right: 80px;
+}
